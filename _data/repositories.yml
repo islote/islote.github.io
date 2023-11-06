@@ -1,0 +1,8 @@
+github_users:
+  - islote
+
+github_repos:
+  - KeioRoboticsAssociation/nhk2021_ilias
+  - islote/navgoal_webgui
+  - islote/robot_simulator_template
+  - islote/introduction-to-ros

@@ -1,0 +1,116 @@
+- title: Education
+  type: time_table
+  contents:
+    # - title: PhD - System design engineering
+    #   institution: Keio University, Japan
+    #   year: 2023 - present
+    #   # description:
+    #   #   - Description 1.
+    #   #   - Description 2.
+    #   #   - title: Description 3.
+    #   #     contents:
+    #   #       - Sub-description 1.
+    #   #       - Sub-description 2.
+    - title: MSc - System design engineering
+      institution: Keio University, Japan
+      year: 2022 - present
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: BSc - System design engineering
+      institution: Keio University, Japan
+      year: 2018 - 2022
+      # description:
+      #   - Thesis: Goal Inference via Corrective Path Demonstrations for Human-robot Collaboration
+        # - Description 2.
+
+- title: Working Experiences
+  type: time_table
+  contents:
+    - title: Student Engineer
+      institution: <a href="https://www.softroid.jp/">SoftRoid.Inc</a>
+      year: Oct 2020 – now
+      description:
+        - I mainly developed robot navigation system and image processing pipeline.
+    - title: Internship
+      institution: <a href="https://www.honda.co.jp/robotics/">HONDA R&D Robotics</a>
+      year: Sep 2022
+    - title: Internship
+      institution: <a href="https://www.sony.com/ja/SonyInfo/research/technologies/mobile-manipulator/">Sony R&D Center Robotics</a>
+      year: Feb 2023 – Mar 2023
+
+- title: Teaching Experiences
+  type: time_table
+  contents:
+    - title: <a href="https://islote.github.io/introduction-to-ros/">Introduction to ROS</a>
+      institution: <a href="https://aic.keio.ac.jp/">Keio University AI Consortium</a>.
+      year: Sep 2021 – Mar 2022
+      description: I taught the basics of ROS, Rviz and Gazebo.
+    - title: <a href="https://github.com/Toshiki-Keio/introduction-to-deep-learning">Introduction to Deep Learning</a>
+      institution: <a href="https://aic.keio.ac.jp/">Keio University AI Consortium</a>.
+      year: Apr 2022 –  Mar2023
+      description: I especially taught deep neural networks for time series data.
+    - title: Computer Programming Exercise (Python)
+      institution: Keio University
+      year: Sep 2022 – Mar 2024
+      description: Teaching Assistant
+
+- title: Project Experiences
+  type: time_table
+  contents:
+    - title: Humonii
+      year: Apr 2023 – now
+      items: 
+        - I developed a shared control algorithm of semi-autonomous electric wheelchair “Feeling”.
+        - <a href="https://www.humonii.com/">Homepage</a>. <a href="https://youtu.be/-udQ3dNQ-l8?si=hS4k8vHkAoBS7gFL">Youtube</a>
+    - title: BMI BrainPic
+      year: Nov 2022
+      items: 
+        - I developed a navigation and safety system of semi-autonomous electric wheelchair.
+        - <a href="https://www.brain.bio.keio.ac.jp/2022/12/05/bmi-brainpic/">Website</a>
+    - title: NHK Robocon
+      year: Oct 2019 – Aug 2021
+      items: 
+        - <u>As a leader of software division</u>, I designed and developed a hole software architecture with teammates, including navigation and task execution modules of mobile robot. In addition, I developed a robot simulator by Gazebo since we could not test it's software by real robot due to COVID-19 lockdown.
+        - <a href="https://github.com/KeioRoboticsAssociation/nhk2021_ilias">Code(2021)</a>, <a href="https://keiorogiken.wordpress.com/2020/09/27/nhk%e5%ad%a6%e7%94%9f%e3%83%ad%e3%83%9c%e3%82%b3%e3%83%b32020%e3%81%a7%e6%8a%95%e7%a5%a85%e4%bd%8d%e3%82%92%e9%a0%82%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/">Report(2020)</a>
+    - title: AWS Robot Delivery Challenge
+      year: Mar 2020 – Sep 2020
+      items: 
+        - <u>As a team leader</u>, I developed a mobile robot navigation system with teammates.
+        - <a href="https://robotstart.info/2020/09/11/aws-robot-delivery-challenge-0915.html">Interview</a>, <a href="https://keiorogiken.wordpress.com/2020/09/15/aws-robot-delivery-challenge%E6%9C%AC%E6%88%A6%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%80%81%E6%B1%BA%E5%8B%9D%E3%81%AB%E9%80%B2%E5%87%BA%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81/">Report</a>, <a href="https://youtu.be/wjuNznYEFNg?si=5bOcCQYdzhTnrij8&t=1112">Youtube(Semi-final)</a>, <a href="https://youtu.be/Tvhe4P3MiTU?si=U5tzymnj8sWJQFRj&t=1174">Youtube(Final. localization🤯)</a>
+
+- title: Main Skills
+  type: nested_list
+  contents:
+    - title: Software
+      items: 
+        - C/C++, Python, Javascript, ROS, Gazebo, Docker, AWS, WSL2
+    - title: Hardware
+      items:
+        - Mbed, Arduino, Jetson, 3D CAD, Soldering
+
+- title: Awards
+  type: nested_list
+  contents:
+    - title: Awards
+      items: 
+        - <b>Excellent Student Award</b>, The Robotics Society of Japan, Feb 2022.
+        - <b>Keio Engineering Foundation Award（慶応工学会賞）</b>, Keio Engineering Foundation, Mar 2022. (the best honors student in the department)
+        - <b>Hatakeyama Award（畠山賞）</b>, The Japan Society of Mechanical Engineers, Mar 2022.
+        - <b>Excellent Bachelor's Thesis Presentation Arawd（卒業研究優秀発表賞）</b>, Department of System Design Engineering, Keio University, Mar 2022.
+        - <b>Education Contribution Award（教育貢献賞）</b>, Keio University AI Consortium（慶應義塾大学AI・高度プログラミングコンソーシアム）, Mar 2022.
+    - title: Scholarships
+      items:
+        - <b>111年三田会記念大学奨学基金</b>, Sep 2021 (Five of the students from all faculties of Keio University were accepted.)
+    - title: Robot competitions
+      items:
+        - <b>2nd place</b> in semi-final and <b>4th place</b> in final, AWS Robot Delivery Challenge, 2021 (Out of 118 teams)
+        - <b>5th place</b>, Team Ilias from Keio University, NHK Robocon, 2020.
+        - <b>1st place</b>, Robocup Junior Chiba Line Trace Robot Challenge, 2013.
+
+- title: Certifications
+  type: list
+  contents:
+    - EIKEN Grade 1（英検一級）[Aug 2020]
+    - TOEIC 930 [Oct 2020]
+    - Driver's license in Japan（普通運転免許）[Sep 2018]
