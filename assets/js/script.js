@@ -43,8 +43,12 @@ document.querySelectorAll('a[data-nav-link]').forEach(link => {
     const targetId = this.getAttribute('href').substring(1);
     
     // Remove active class from all sections and links
-    document.querySelectorAll('.section').forEach(section => section.classList.remove('active'));
-    document.querySelectorAll('.navbar-link').forEach(link => link.classList.remove('active'));
+    document.querySelectorAll('.section').forEach(section => {
+      section.classList.remove('active');
+    });
+    document.querySelectorAll('.navbar-link').forEach(navLink => {
+      navLink.classList.remove('active');
+    });
 
     // Add active class to the clicked section and link
     document.getElementById(targetId).classList.add('active');
